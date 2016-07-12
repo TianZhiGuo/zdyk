@@ -1,1 +1,4 @@
-hell world...2016/07/12
+git 建立本地仓库
+1.git init  ----自动生成   .git文件夹
+2.配置 ssh key 与本地建立连接 参考 http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html
+3.本地文件要经过 add  commit  push  提交到远程服务器 参考 http://www.jianshu.com/p/dcbb8baa6e36
