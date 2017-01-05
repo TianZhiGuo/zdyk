@@ -11,3 +11,9 @@
 #配置信息
 #$ git config --global user.name "TianZhiGuo"
 #$ git config --global user.email "929860963@qq.com"
+
+#查看分支
+#$ git branch
+
+#更新远程仓库代码到本地
+#$ git pull
