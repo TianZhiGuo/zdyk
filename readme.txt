@@ -17,3 +17,8 @@
 
 #更新远程仓库代码到本地
 #$ git pull
+
+#新建分支 git branch <分支名>
+#切换分支 git checkout <分支名>
+
+#新建并切换到 git checkout -b <分支名>
