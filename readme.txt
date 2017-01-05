@@ -12,6 +12,9 @@
 #$ git config --global user.name "TianZhiGuo"
 #$ git config --global user.email "929860963@qq.com"
 
+#commit代码到储存区 git commit -a -m <提交说明信息>
+#push代码到远程仓库 git push <远程仓库名> <需要推送的分支名>
+
 #查看分支
 #$ git branch
 
@@ -22,3 +25,8 @@
 #切换分支 git checkout <分支名>
 
 #新建并切换到 git checkout -b <分支名>
+
+#推送本地分支到远程仓库 git push <远程仓库名> <需要推送的新分支名>
+
+#删除本地分支 git branch -d <分支名>
+#删除远程分支 git push :<需要删除的远程分支名>
